@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taelr! <br/><a href="https://github.com/Teason16">Software Engineer</a>, <a href="https://www.https://www.linkedin.com/in/taelr-eason-technopharmacist/">Computer Science Graduate & Pharmacist</a>
+<h1>Hi, I'm Taelr! <br/><a href="https://github.com/Teason16">Software Engineer</a> <a href="https://www.https://www.linkedin.com/in/taelr-eason-technopharmacist/">& Pharmacist</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
