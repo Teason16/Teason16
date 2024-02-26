@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Analysis</b>
-  - [SQL Database Management]()
+  - [Celestial Bodies Database (SQL)](https://github.com/Teason16/Celestial-bodies-database)
 - <b>Python</b>
   - [Package Routing Application (Datastructures and Algorithms Demo)](https://github.com/Teason16/TSP-package-routing-program)
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
