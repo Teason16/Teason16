@@ -5,10 +5,12 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Analysis</b>
-  - 
+  - [SQL Database Management]()
 - <b>Python</b>
   - [Package Routing Application (Datastructures and Algorithms Demo)](https://github.com/Teason16/TSP-package-routing-program)
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
+- Web Applications
+  - [Loan Calculator](https://github.com/Teason16/loancalculator)  
 
 <h2> 🤳 Connect with me:</h2>
 
