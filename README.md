@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Analysis</b>
   - [Celestial Bodies Database (SQL)](https://github.com/Teason16/Celestial-bodies-database)
+- <b>Java</b>
+  - [Political Party Predictor](https://github.com/Teason16/Political-Party-Guesser)
 - <b>Python</b>
   - [Package Routing Application (Datastructures and Algorithms Demo)](https://github.com/Teason16/TSP-package-routing-program)
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
