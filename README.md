@@ -9,7 +9,7 @@
 - <b>Java</b>
   - [Political Party Predictor](https://github.com/Teason16/Political-Party-Guesser)
 - <b>Python</b>
-  - [Package Routing Application (Datastructures and Algorithms Demo)](https://github.com/Teason16/TSP-package-routing-program)
+  - [Package Routing Application (TSP with Nearest-Neighbor Algorithm)](https://github.com/Teason16/TSP-package-routing-program)
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
 - Web Applications (JavaScript, HTML, CSS)
   - [Loan Calculator](https://github.com/Teason16/loancalculator)  
