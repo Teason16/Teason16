@@ -8,6 +8,7 @@
   - [Celestial Bodies Database (SQL)](https://github.com/Teason16/Celestial-bodies-database)
 - <b>Java</b>
   - [Political Party Predictor](https://github.com/Teason16/Political-Party-Guesser)
+  - [State Capitals Quiz (Arrays & Hashmaps)](https://github.com/Teason16/State-Capitals-Quiz)
 - <b>Python</b>
   - [Package Routing Application (TSP with Nearest-Neighbor Algorithm)](https://github.com/Teason16/TSP-package-routing-program)
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
