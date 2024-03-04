@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taelr! <br/><a href="https://github.com/Teason16">Software Engineer</a> <a href="https://www.linkedin.com/in/taelr-eason-technopharmacist/">& Pharmacist</a>
+<h1>Hi, I'm Taelr! <br/><a href="https://github.com/Teason16">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,6 +14,7 @@
   - [Change Calculator (Greedy Algorithm)](https://github.com/Teason16/MakeChange)
 - Web Applications (JavaScript, HTML, CSS)
   - [Task List](https://github.com/Teason16/tasklist)
+  - [Quote Generator](https://github.com/Teason16/QuoteGenerator)
   - [Loan Calculator](https://github.com/Teason16/loancalculator)  
 
 <h2> 🤳 Connect with me:</h2>
