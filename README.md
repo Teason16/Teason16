@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing Data Structures & Algorithms in Python](https://github.com/Teason16/Algorithms-Practice)
-- <b>Data Analysis</b>
+- <b>Relational Database</b>
   - [Celestial Bodies Database (SQL)](https://github.com/Teason16/Celestial-bodies-database)
 - <b>Java</b>
   - [Political Party Prediction Survey](https://github.com/Teason16/Political-Party-Guesser)
