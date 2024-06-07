@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing Data Structures & Algorithms in Python](https://github.com/Teason16/Algorithms-Practice)
 - <b>Relational Database</b>
   - [Celestial Bodies Database (SQL)](https://github.com/Teason16/Celestial-bodies-database)
 - <b>Java</b>
